@@ -1,0 +1,10 @@
+# personal profile
+Name= str(input("what is your name"))
+Age= int(input("How old are you"))
+State= str(input("which state you belong"))
+City= str(input("which city you belong"))
+Status= str(input("what are doing in present"))
+print(Name)
+print(Age)
+print(State)
+print(City)
